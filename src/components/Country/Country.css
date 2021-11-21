@@ -1,0 +1,26 @@
+.single-country{
+    border: 2px solid sandybrown;
+    border-radius: 15px;
+    color: salmon;
+    padding: 20px 0;
+    background-color: snow;
+}
+
+.search-container{
+    text-align: center;
+    line-height: 50px;
+    color: salmon;
+}
+.search-container input{
+    color: #F89831;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 7px 5px;
+    margin: 5px 0;
+    width: 25%;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+.search-container input:focus{
+    outline: none;
+}
